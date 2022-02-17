@@ -4,7 +4,7 @@ Budget Manager is a JetBrains' Academy project. Simple CLI application allows us
 ## About
 JetBrains Academy  
 Track: Java Developer  
-Project: Encryption-Decryption
+Project: Budget Manager <br>
 https://hyperskill.org/projects/76?track=15
 
 ## Implemented Patterns
